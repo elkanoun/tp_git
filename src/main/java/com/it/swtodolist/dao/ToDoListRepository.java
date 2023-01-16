@@ -1,4 +1,4 @@
-package com.it.swtodolist;
+package com.it.swtodolist.dao;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
